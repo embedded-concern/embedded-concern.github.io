@@ -1,4 +1,0 @@
----
-share: true
----
-some text.
