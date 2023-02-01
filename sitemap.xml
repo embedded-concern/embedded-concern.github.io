@@ -5,4 +5,19 @@
          <lastmod>2023-02-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://embedded-concern.github.io/about/</loc>
+         <lastmod>2023-02-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://embedded-concern.github.io/about/Accessibility/</loc>
+         <lastmod>2023-02-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://embedded-concern.github.io/docs/</loc>
+         <lastmod>2023-02-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
